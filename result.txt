@@ -1,0 +1,302 @@
+{
+    "accuweather.com": {
+        "scan_time": 1709865845.65035
+    },
+    "allrecipes.com": {
+        "scan_time": 1709865845.65031
+    },
+    "amazon.com": {
+        "scan_time": 1709865845.650227
+    },
+    "aol.com": {
+        "scan_time": 1709865845.650325
+    },
+    "apartments.com": {
+        "scan_time": 1709865845.65037
+    },
+    "apple.com": {
+        "scan_time": 1709865845.650253
+    },
+    "bankofamerica.com": {
+        "scan_time": 1709865845.650376
+    },
+    "bbb.org": {
+        "scan_time": 1709865845.650378
+    },
+    "bestbuy.com": {
+        "scan_time": 1709865845.650295
+    },
+    "bleacherreport.com": {
+        "scan_time": 1709865845.650347
+    },
+    "books.google.com": {
+        "scan_time": 1709865845.650374
+    },
+    "britannica.com": {
+        "scan_time": 1709865845.650285
+    },
+    "businessinsider.com": {
+        "scan_time": 1709865845.650286
+    },
+    "ca.gov": {
+        "scan_time": 1709865845.650346
+    },
+    "cbssports.com": {
+        "scan_time": 1709865845.650343
+    },
+    "chase.com": {
+        "scan_time": 1709865845.650364
+    },
+    "cnet.com": {
+        "scan_time": 1709865845.650317
+    },
+    "cnn.com": {
+        "scan_time": 1709865845.650263
+    },
+    "craigslist.org": {
+        "scan_time": 1709865845.650242
+    },
+    "dictionary.com": {
+        "scan_time": 1709865845.650288
+    },
+    "ebay.com": {
+        "scan_time": 1709865845.650244
+    },
+    "en.wikipedia.org": {
+        "scan_time": 1709865845.650222
+    },
+    "espn.com": {
+        "scan_time": 1709865845.650255
+    },
+    "etsy.com": {
+        "scan_time": 1709865845.65025
+    },
+    "expedia.com": {
+        "scan_time": 1709865845.650379
+    },
+    "facebook.com": {
+        "scan_time": 1709865845.650225
+    },
+    "fandom.com": {
+        "scan_time": 1709865845.650234
+    },
+    "fb.com": {
+        "scan_time": 1709865845.650258
+    },
+    "finance.yahoo.com": {
+        "scan_time": 1709865845.650318
+    },
+    "foodnetwork.com": {
+        "scan_time": 1709865845.650338
+    },
+    "forbes.com": {
+        "scan_time": 1709865845.650315
+    },
+    "foxnews.com": {
+        "scan_time": 1709865845.650307
+    },
+    "gamepedia.com": {
+        "scan_time": 1709865845.650266
+    },
+    "genius.com": {
+        "scan_time": 1709865845.650309
+    },
+    "glassdoor.com": {
+        "scan_time": 1709865845.650314
+    },
+    "go.com": {
+        "scan_time": 1709865845.650354
+    },
+    "google.com": {
+        "scan_time": 1709865845.650262
+    },
+    "groupon.com": {
+        "scan_time": 1709865845.650357
+    },
+    "healthline.com": {
+        "scan_time": 1709865845.650248
+    },
+    "homedepot.com": {
+        "scan_time": 1709865845.650271
+    },
+    "huffpost.com": {
+        "scan_time": 1709865845.650373
+    },
+    "hulu.com": {
+        "scan_time": 1709865845.65034
+    },
+    "ign.com": {
+        "scan_time": 1709865845.650382
+    },
+    "imdb.com": {
+        "scan_time": 1709865845.650232
+    },
+    "indeed.com": {
+        "scan_time": 1709865845.650252
+    },
+    "instagram.com": {
+        "scan_time": 1709865845.650239
+    },
+    "investopedia.com": {
+        "scan_time": 1709865845.650358
+    },
+    "irs.gov": {
+        "scan_time": 1709865845.65032
+    },
+    "linkedin.com": {
+        "scan_time": 1709865845.650245
+    },
+    "live.com": {
+        "scan_time": 1709865845.650341
+    },
+    "lowes.com": {
+        "scan_time": 1709865845.650321
+    },
+    "macys.com": {
+        "scan_time": 1709865845.650349
+    },
+    "mail.yahoo.com": {
+        "scan_time": 1709865845.650323
+    },
+    "mapquest.com": {
+        "scan_time": 1709865845.650283
+    },
+    "mayoclinic.org": {
+        "scan_time": 1709865845.650293
+    },
+    "medicalnewstoday.com": {
+        "scan_time": 1709865845.650303
+    },
+    "merriam-webster.com": {
+        "scan_time": 1709865845.650265
+    },
+    "microsoft.com": {
+        "scan_time": 1709865845.650268
+    },
+    "msn.com": {
+        "scan_time": 1709865845.650299
+    },
+    "netflix.com": {
+        "scan_time": 1709865845.650277
+    },
+    "nih.gov": {
+        "scan_time": 1709865845.650274
+    },
+    "npr.org": {
+        "scan_time": 1709865845.650368
+    },
+    "nytimes.com": {
+        "scan_time": 1709865845.65026
+    },
+    "office.com": {
+        "scan_time": 1709865845.650332
+    },
+    "paypal.com": {
+        "scan_time": 1709865845.650336
+    },
+    "pinterest.com": {
+        "scan_time": 1709865845.650235
+    },
+    "play.google.com": {
+        "scan_time": 1709865845.650247
+    },
+    "quizlet.com": {
+        "scan_time": 1709865845.65028
+    },
+    "quora.com": {
+        "scan_time": 1709865845.650273
+    },
+    "reddit.com": {
+        "scan_time": 1709865845.65023
+    },
+    "retailmenot.com": {
+        "scan_time": 1709865845.650333
+    },
+    "roblox.com": {
+        "scan_time": 1709865845.650371
+    },
+    "rottentomatoes.com": {
+        "scan_time": 1709865845.650276
+    },
+    "spotify.com": {
+        "scan_time": 1709865845.650312
+    },
+    "steamcommunity.com": {
+        "scan_time": 1709865845.650362
+    },
+    "steampowered.com": {
+        "scan_time": 1709865845.650326
+    },
+    "target.com": {
+        "scan_time": 1709865845.650269
+    },
+    "techradar.com": {
+        "scan_time": 1709865845.650355
+    },
+    "theguardian.com": {
+        "scan_time": 1709865845.650296
+    },
+    "tripadvisor.com": {
+        "scan_time": 1709865845.650237
+    },
+    "twitter.com": {
+        "scan_time": 1709865845.650224
+    },
+    "urbandictionary.com": {
+        "scan_time": 1709865845.650304
+    },
+    "usatoday.com": {
+        "scan_time": 1709865845.650301
+    },
+    "usnews.com": {
+        "scan_time": 1709865845.650306
+    },
+    "usps.com": {
+        "scan_time": 1709865845.65033
+    },
+    "walmart.com": {
+        "scan_time": 1709865845.65024
+    },
+    "washingtonpost.com": {
+        "scan_time": 1709865845.650329
+    },
+    "wayfair.com": {
+        "scan_time": 1709865845.650344
+    },
+    "weather.com": {
+        "scan_time": 1709865845.650281
+    },
+    "webmd.com": {
+        "scan_time": 1709865845.650257
+    },
+    "wellsfargo.com": {
+        "scan_time": 1709865845.650366
+    },
+    "wikihow.com": {
+        "scan_time": 1709865845.650381
+    },
+    "wiktionary.org": {
+        "scan_time": 1709865845.650335
+    },
+    "wowhead.com": {
+        "scan_time": 1709865845.650384
+    },
+    "xfinity.com": {
+        "scan_time": 1709865845.650352
+    },
+    "yahoo.com": {
+        "scan_time": 1709865845.650298
+    },
+    "yellowpages.com": {
+        "scan_time": 1709865845.65036
+    },
+    "yelp.com": {
+        "scan_time": 1709865845.650229
+    },
+    "youtube.com": {
+        "scan_time": 1709865845.650219
+    },
+    "zillow.com": {
+        "scan_time": 1709865845.650291
+    }
+}
