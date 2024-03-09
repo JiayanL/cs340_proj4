@@ -1,198 +1,240 @@
 {
-    "amazon.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.15124
-    },
-    "asee.org": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954858.391408
-    },
-    "auditoryneuroscience.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954858.359019
-    },
-    "clocktab.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954858.319991
-    },
     "en.wikipedia.org": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
+        "geo_locations": [
+            "Wright City, Missouri, United States",
+            "Berkeley, California, United States"
         ],
-        "scan_time": 1709954856.054772
+        "http_server": "HAProxy",
+        "insecure_http": true,
+        "ipv4_addresses": [
+            "1.1.1.1",
+            "185.228.168.168",
+            "77.88.8.7",
+            "156.154.70.1",
+            "208.80.153.224",
+            "208.67.222.222",
+            "176.103.130.130",
+            "8.8.8.8",
+            "185.15.59.224",
+            "64.6.65.6",
+            "208.80.154.224",
+            "9.9.9.9",
+            "8.26.56.26"
+        ],
+        "ipv6_addresses": [],
+        "rdns_names": [
+            [
+                "one.one.one.one"
+            ],
+            [
+                "family-filter-dns.cleanbrowsing.org"
+            ],
+            [
+                "family.dns.yandex.ru"
+            ],
+            [
+                "rdns1.ultradns.net"
+            ],
+            [
+                "text-lb.codfw.wikimedia.org"
+            ],
+            [
+                "dns.sse.cisco.com",
+                "dns.umbrella.com",
+                "dns.opendns.com",
+                "resolver1.opendns.com"
+            ],
+            [
+                "176-103-130-130.dns.adguard.com"
+            ],
+            [
+                "dns.google"
+            ],
+            [
+                "text-lb.esams.wikimedia.org"
+            ],
+            [
+                "rec1pubns2.ultradns.net"
+            ],
+            [
+                "text-lb.eqiad.wikimedia.org"
+            ],
+            [
+                "dns9.quad9.net"
+            ],
+            [
+                "ns1.recursive.dnsbycomodo.com"
+            ]
+        ],
+        "redirect_to_https": true,
+        "rtt_range": 1,
+        "scan_time": 1709962622.358295
     },
-    "facebook.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
+    "neverssl.com": {
+        "geo_locations": [
+            "Wright City, Missouri, United States",
+            "Berkeley, California, United States"
         ],
-        "scan_time": 1709954856.124183
-    },
-    "fandom.com": {
+        "http_server": "Apache/2.4.58 ()",
+        "insecure_http": true,
         "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
+            "1.1.1.1",
+            "185.228.168.168",
+            "77.88.8.7",
+            "156.154.70.1",
+            "208.67.222.222",
+            "176.103.130.130",
+            "8.8.8.8",
+            "64.6.65.6",
+            "9.9.9.9",
+            "34.223.124.45",
+            "8.26.56.26"
         ],
-        "scan_time": 1709954856.296439
-    },
-    "gradeinflation.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
+        "ipv6_addresses": [],
+        "rdns_names": [
+            [
+                "one.one.one.one"
+            ],
+            [
+                "family-filter-dns.cleanbrowsing.org"
+            ],
+            [
+                "family.dns.yandex.ru"
+            ],
+            [
+                "rdns1.ultradns.net"
+            ],
+            [
+                "dns.opendns.com",
+                "resolver1.opendns.com",
+                "dns.sse.cisco.com",
+                "dns.umbrella.com"
+            ],
+            [
+                "176-103-130-130.dns.adguard.com"
+            ],
+            [
+                "dns.google"
+            ],
+            [
+                "rec1pubns2.ultradns.net"
+            ],
+            [
+                "dns9.quad9.net"
+            ],
+            [
+                "ec2-34-223-124-45.us-west-2.compute.amazonaws.com"
+            ],
+            [
+                "ns1.recursive.dnsbycomodo.com"
+            ]
         ],
-        "scan_time": 1709954858.427374
-    },
-    "illinois.edu": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954857.839182
-    },
-    "imdb.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.269376
-    },
-    "instagram.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.789709
-    },
-    "it.eecs.northwestern.edu": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954857.425403
-    },
-    "kellogg.northwestern.edu": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954857.360542
-    },
-    "kli.org": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954858.721892
-    },
-    "mccormick.northwestern.edu": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954857.321813
-    },
-    "northwestern.edu": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954857.270919
-    },
-    "pinterest.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.339653
-    },
-    "pmichaud.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954858.652815
-    },
-    "reddit.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.236016
-    },
-    "spacejam.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954858.476714
-    },
-    "stevetarzia.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954857.873787
-    },
-    "tripadvisor.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.748223
-    },
-    "twitter.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.092275
-    },
-    "uchicago.edu": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954857.798788
-    },
-    "users.cs.northwestern.edu": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954857.39266
-    },
-    "walmart.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.827326
-    },
-    "yelp.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
-        ],
-        "scan_time": 1709954856.190218
+        "redirect_to_https": false,
+        "rtt_range": 1,
+        "scan_time": 1709962629.793426
     },
     "youtube.com": {
-        "ipv4_addresses": [
-            "129.105.136.48",
-            "208.67.222.222"
+        "geo_locations": [
+            "Wright City, Missouri, United States",
+            "Berkeley, California, United States"
         ],
-        "scan_time": 1709954855.935864
+        "http_server": "ESF",
+        "insecure_http": true,
+        "ipv4_addresses": [
+            "1.1.1.1",
+            "185.228.168.168",
+            "156.154.70.1",
+            "172.217.4.78",
+            "8.8.8.8",
+            "209.85.233.136",
+            "209.85.233.93",
+            "142.251.40.174",
+            "209.85.233.91",
+            "172.217.4.46",
+            "9.9.9.9",
+            "172.217.0.174",
+            "208.67.222.222",
+            "142.250.190.78",
+            "64.6.65.6",
+            "209.85.233.190",
+            "176.103.130.130",
+            "77.88.8.7",
+            "142.250.191.110",
+            "8.26.56.26"
+        ],
+        "ipv6_addresses": [],
+        "rdns_names": [
+            [
+                "one.one.one.one"
+            ],
+            [
+                "family-filter-dns.cleanbrowsing.org"
+            ],
+            [
+                "rdns1.ultradns.net"
+            ],
+            [
+                "lga15s47-in-f78.1e100.net",
+                "ord37s18-in-f14.1e100.net"
+            ],
+            [
+                "dns.google"
+            ],
+            [
+                "lr-in-f136.1e100.net"
+            ],
+            [
+                "lr-in-f93.1e100.net"
+            ],
+            [
+                "lga25s81-in-f14.1e100.net"
+            ],
+            [
+                "lr-in-f91.1e100.net"
+            ],
+            [
+                "lga15s46-in-f14.1e100.net",
+                "lga15s46-in-f46.1e100.net",
+                "ord38s18-in-f14.1e100.net"
+            ],
+            [
+                "dns9.quad9.net"
+            ],
+            [
+                "yyz08s10-in-f174.1e100.net",
+                "ord38s42-in-f14.1e100.net",
+                "mia09s16-in-f14.1e100.net"
+            ],
+            [
+                "dns.opendns.com",
+                "dns.umbrella.com",
+                "resolver1.opendns.com",
+                "dns.sse.cisco.com"
+            ],
+            [
+                "ord37s34-in-f14.1e100.net"
+            ],
+            [
+                "rec1pubns2.ultradns.net"
+            ],
+            [
+                "lr-in-f190.1e100.net"
+            ],
+            [
+                "176-103-130-130.dns.adguard.com"
+            ],
+            [
+                "family.dns.yandex.ru"
+            ],
+            [
+                "ord38s28-in-f14.1e100.net"
+            ],
+            [
+                "ns1.recursive.dnsbycomodo.com"
+            ]
+        ],
+        "redirect_to_https": true,
+        "rtt_range": 1,
+        "scan_time": 1709962613.972264
     }
 }

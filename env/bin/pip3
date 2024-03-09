@@ -1,11 +1,10 @@
-#!/bin/sh
-'''exec' "/Users/General/Desktop/College/Senior/Winter/CS 340/project_4/env/bin/python3" "$0" "$@"
-' '''
+#!/home/jle8360/cs340/project_4/env/bin/python3
+
 # -*- coding: utf-8 -*-
 import re
 import sys
 
-from pip._internal import main
+from pip import main
 
 if __name__ == '__main__':
     sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
