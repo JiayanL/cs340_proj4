@@ -1,0 +1,307 @@
+{
+    "amazon.com": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "DigiCert Inc",
+        "scan_time": 1709961964.233066,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2"
+        ]
+    },
+    "asee.org": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "\"DigiCert",
+        "scan_time": 1709962049.262548,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "auditoryneuroscience.com": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Let's Encrypt",
+        "scan_time": 1709962037.866639,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "clocktab.com": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Google Trust Services LLC",
+        "scan_time": 1709962033.96287,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "cloudflare.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "\"Cloudflare",
+        "scan_time": 1709962069.798226,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "en.wikipedia.org": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "Let's Encrypt",
+        "scan_time": 1709961951.379694,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "facebook.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "DigiCert Inc",
+        "scan_time": 1709961958.745339,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "fandom.com": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "GlobalSign nv-sa",
+        "scan_time": 1709961977.188248,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "gradeinflation.com": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Let's Encrypt",
+        "scan_time": 1709962054.18239,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "illinois.edu": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Let's Encrypt",
+        "scan_time": 1709962024.504685,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "imdb.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "Amazon",
+        "scan_time": 1709961973.084883,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2"
+        ]
+    },
+    "instagram.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "DigiCert Inc",
+        "scan_time": 1709961983.455654,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "it.eecs.northwestern.edu": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Unspecified",
+        "scan_time": 1709962014.95097,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "kellogg.northwestern.edu": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Internet2",
+        "scan_time": 1709962006.700404,
+        "tls_versions": [
+            "TLSv1.2"
+        ]
+    },
+    "kli.org": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Google Trust Services LLC",
+        "scan_time": 1709962066.438737,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "mccormick.northwestern.edu": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Internet2",
+        "scan_time": 1709961999.261861,
+        "tls_versions": [
+            "TLSv1.2"
+        ]
+    },
+    "northwestern.edu": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Internet2",
+        "scan_time": 1709961993.970539,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2"
+        ]
+    },
+    "pinterest.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "DigiCert Inc",
+        "scan_time": 1709961978.859897,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "pmichaud.com": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "\"cPanel",
+        "scan_time": 1709962061.539366,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "reddit.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "DigiCert Inc",
+        "scan_time": 1709961970.827116,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "spacejam.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "GlobalSign nv-sa",
+        "scan_time": 1709962056.983386,
+        "tls_versions": [
+            "TLSv1.1",
+            "TLSv1.2"
+        ]
+    },
+    "stevetarzia.com": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Let's Encrypt",
+        "scan_time": 1709962029.074973,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2"
+        ]
+    },
+    "tripadvisor.com": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "GlobalSign nv-sa",
+        "scan_time": 1709961981.926995,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "twitter.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "DigiCert Inc",
+        "scan_time": 1709961954.090587,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "uchicago.edu": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Internet2",
+        "scan_time": 1709962018.985611,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "users.cs.northwestern.edu": {
+        "hsts": false,
+        "rdns_names": null,
+        "root_ca": "Internet2",
+        "scan_time": 1709962010.311118,
+        "tls_versions": [
+            "TLSv1.2"
+        ]
+    },
+    "walmart.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "GlobalSign nv-sa",
+        "scan_time": 1709961989.654173,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "yelp.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "DigiCert Inc",
+        "scan_time": 1709961968.406857,
+        "tls_versions": [
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    },
+    "youtube.com": {
+        "hsts": true,
+        "rdns_names": null,
+        "root_ca": "Google Trust Services LLC",
+        "scan_time": 1709961947.228787,
+        "tls_versions": [
+            "TLSv1.0",
+            "TLSv1.1",
+            "TLSv1.2",
+            "TLSv1.3"
+        ]
+    }
+}
