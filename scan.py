@@ -208,16 +208,12 @@ def scan_domains(domains):
     for domain in domains:
         scan_time = datetime.now().timestamp()
         ipv4_addresses = scan_ipv4(domain)
-        if local: # TODO: remove this eventually
-            ipv6_addresses = []
-        else:
-            ipv6_addresses = scan_ipv6(domain)
+        ipv6_addresses = scan_ipv6(domain)
         http_server = scan_http_server(domain)
         insecure_http = scan_insecure_http(domain)
         redirect_to_https = scan_redirect_to_https(domain)
         geo_locations = scan_geo_locations(ipv4_addresses)
-        # rtt_range = scan_rtt_range(ipv4_addresses)
-        rtt_range = 1 #TODO: remove
+        rtt_range = scan_rtt_range(ipv4_addresses)
         rdns_names = scan_rdns_names(ipv4_addresses)
 
         result[domain] = {
